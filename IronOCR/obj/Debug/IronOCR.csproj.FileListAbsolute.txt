@@ -1,0 +1,317 @@
+F:\C#\IronOCR\IronOCR\bin\Debug\IronOCR.exe.config
+F:\C#\IronOCR\IronOCR\bin\Debug\IronOCR.exe
+F:\C#\IronOCR\IronOCR\bin\Debug\IronOCR.pdb
+F:\C#\IronOCR\IronOCR\bin\Debug\System.Drawing.Common.dll
+F:\C#\IronOCR\IronOCR\obj\Debug\IronOCR.csprojAssemblyReference.cache
+F:\C#\IronOCR\IronOCR\obj\Debug\IronOCR.Form1.resources
+F:\C#\IronOCR\IronOCR\obj\Debug\IronOCR.Properties.Resources.resources
+F:\C#\IronOCR\IronOCR\obj\Debug\IronOCR.csproj.GenerateResource.cache
+F:\C#\IronOCR\IronOCR\obj\Debug\IronOCR.csproj.CoreCompileInputs.cache
+F:\C#\IronOCR\IronOCR\obj\Debug\IronOCR.csproj.CopyComplete
+F:\C#\IronOCR\IronOCR\obj\Debug\IronOCR.exe
+F:\C#\IronOCR\IronOCR\obj\Debug\IronOCR.pdb
+F:\C#\IronOCR\IronOCR\bin\Debug\IronOcr.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\IronOcr.xml
+F:\C#\IronOCR\IronOCR\bin\Debug\AForge.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\AForge.Video.DirectShow.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\AForge.Video.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\Emgu.CV.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\Emgu.CV.ML.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\Emgu.CV.UI.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\Emgu.Util.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\AForge.xml
+F:\C#\IronOCR\IronOCR\bin\Debug\AForge.Video.xml
+F:\C#\IronOCR\IronOCR\bin\Debug\AForge.Video.DirectShow.xml
+F:\C#\IronOCR\IronOCR\bin\Debug\zlib.net.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\ZedGraph.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\x86\leptonica-1.80.0.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\x86\tesseract41.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\x64\leptonica-1.80.0.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\x64\tesseract41.dll
+F:\C#\IronOCR\IronOCR\bin\Debug\Tesseract.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\x86\tesseract41.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\x64\tesseract41.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\IronOCR.exe.config
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\IronOCR.exe
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\IronOCR.pdb
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\AForge.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\IronOcr.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Tesseract.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\zlib.net.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\AForge.xml
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Emgu.CV.xml
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Emgu.Util.xml
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\IronOcr.xml
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.Form1.resources
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.exe
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.pdb
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.Form3.resources
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\obj\Debug\IronOCR.Form2.resources
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Database1.mdf
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Database1DataSet.cs
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Database1DataSet.Designer.cs
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\StudentDataset.Designer.cs
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Database1DataSet.xsc
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Database1DataSet.xsd
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\Database1DataSet.xss
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\StudentDataset.xsc
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\StudentDataset.xsd
+C:\Users\Admin\Downloads\DoAn_CSharp-master\IronOCR\bin\Debug\StudentDataset.xss
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\x86\tesseract41.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\x64\tesseract41.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Database1.mdf
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Database1DataSet.cs
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Database1DataSet.Designer.cs
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\StudentDataset.Designer.cs
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Database1DataSet.xsc
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Database1DataSet.xsd
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Database1DataSet.xss
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\StudentDataset.xsc
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\StudentDataset.xsd
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\StudentDataset.xss
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\IronOCR.exe.config
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\IronOCR.exe
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\IronOCR.pdb
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\AForge.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\IronOcr.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Tesseract.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\zlib.net.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\AForge.xml
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Emgu.CV.xml
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\Emgu.Util.xml
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\bin\Debug\IronOcr.xml
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.Form1.resources
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.Form2.resources
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.Form3.resources
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.csproj.CopyComplete
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.exe
+C:\Users\Admin\Downloads\DoAn_CSharp\IronOCR\obj\Debug\IronOCR.pdb
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\x86\tesseract41.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\x64\tesseract41.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Database1.mdf
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Database1DataSet.cs
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Database1DataSet.Designer.cs
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\StudentDataset.Designer.cs
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Database1DataSet.xsc
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Database1DataSet.xsd
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Database1DataSet.xss
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\StudentDataset.xsc
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\StudentDataset.xsd
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\StudentDataset.xss
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\IronOCR.exe.config
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\IronOCR.exe
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\IronOCR.pdb
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\IronOcr.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Tesseract.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\IronOcr.xml
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.Form1.resources
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.Properties.Resources.resources
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.csproj.CopyComplete
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.exe
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.pdb
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.DataManagement.resources
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\IronOCR.DataSearch.resources
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Temp\IronOCR\obj\Debug\RdlCompile.compiled
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\x86\tesseract41.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\x64\tesseract41.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Database1.mdf
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Database1_log.ldf
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Database1DataSet.cs
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Database1DataSet.Designer.cs
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\StudentDataset.Designer.cs
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Database1DataSet.xsc
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Database1DataSet.xsd
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Database1DataSet.xss
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\StudentDataset.xsc
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\StudentDataset.xsd
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\StudentDataset.xss
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\IronOCR.exe.config
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\IronOCR.exe
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\IronOCR.pdb
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\AForge.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\AForge.Video.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\IronOcr.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Tesseract.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\EnvDTE.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\stdole.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\AForge.xml
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\AForge.Video.xml
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\IronOcr.xml
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.DataManagement.resources
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.DataSearch.resources
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.FormPrint.resources
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.Properties.Resources.resources
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\RdlCompile.cache
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\RdlCompile.compiled
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.csproj.CopyComplete
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.exe
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.pdb
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.FormStats.resources
+C:\Users\PC\OneDrive\Desktop\New DoAn\IronOCR\obj\Debug\IronOCR.FormMain.resources
